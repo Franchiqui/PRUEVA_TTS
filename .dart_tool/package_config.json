@@ -179,10 +179,10 @@
       "name": "textovoz",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-05-01T14:51:46.274295Z",
+  "generated": "2024-05-01T15:32:10.379705Z",
   "generator": "pub",
   "generatorVersion": "3.5.0-114.0.dev",
   "flutterRoot": "file:///C:/src/flutter",
